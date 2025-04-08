@@ -14,12 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@stdlib/stdlib": "^0.3.2"
-  },
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/tejas-963/stdlib-dependency-tree-mini/issues"
+  },
+  "dependencies": {
+    "@stdlib/stdlib": "^0.3.2",
+    "vis-network": "^9.1.9"
   },
   "homepage": "https://github.com/tejas-963/stdlib-dependency-tree-mini#readme"
 }
